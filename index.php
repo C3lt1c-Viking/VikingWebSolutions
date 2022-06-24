@@ -596,7 +596,7 @@
 
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact section-bg">
+    <section id="contact" class="contact section-bg" style="text-align: center">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -604,7 +604,7 @@
           <p>Let's connect and dicuss your website needs &amp; Goals!</p>
         </div>
 
-        <div class="row">
+        <div class="row" style="text-align: center; margin: 0 auto; float: center; justify-content: center;">
 
           <div class="col-lg-6">
 
@@ -634,79 +634,6 @@
             </div>
 
           </div>
-
-          <div class="col-lg-6 mt-4 mt-lg-0">
-
-            <form class="php-email-form w-100" data-aos="fade-up" method="POST" action="/mail_form.php" id="contact-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <select id="subject" class="form-control" name="subject" placeholder="Subject" required>
-                  <option value="Websites">Custom Design Websites</option>
-                  <option value="Mobile">Custom Mobile Applications</option>
-                  <option value="hosting">Web Hosting Solutions</option>
-                  <option value="it">I.T. Services</option>
-                  <option value="packages">Package Services</option>
-                </select>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-            <script src="//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
-            <script>
-                const constraints = {
-                    name: {
-                        presence: { allowEmpty: false }
-                    },
-                    email: {
-                        presence: { allowEmpty: false },
-                        email: true
-                    },
-                    message: {
-                        presence: { allowEmpty: false }
-                    }
-                };
-
-                const form = document.getElementById('contact-form');
-
-                form.addEventListener('submit', function (event) {
-                    const formValues = {
-                        name: form.elements.name.value,
-                        email: form.elements.email.value,
-                        message: form.elements.message.value
-                    };
-
-                    const errors = validate(formValues, constraints);
-
-                    if (errors) {
-                        event.preventDefault();
-                        const errorMessage = Object
-                            .values(errors)
-                            .map(function (fieldValues) {
-                                return fieldValues.join(', ')
-                            })
-                            .join("\n");
-
-                        alert(errorMessage);
-                    }
-                }, false);
-            </script>
-          </div>
-
-        </div>
 
       </div>
     </section><!-- End Contact Section -->
