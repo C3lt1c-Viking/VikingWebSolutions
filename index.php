@@ -568,24 +568,24 @@
           <div class="col-lg-4 box featured" data-aos="zoom-in">
             <span class="featured-badge">Featured</span>
             <h3>Business Advanced</h3>
-            <h4>$2,550<span>Starting At</span></h4>
+            <h4>$4,750<span>Starting At</span></h4>
             <ul>
               <li><i class="bx bx-check"></i> E-Commerce Style Website</li>
               <li><i class="bx bx-check"></i> Custom Logo Creation</li>
               <li><i class="bx bx-check"></i> 1-Free Domain + 1-Free Sub-Domain</li>
               <li><i class="bx bx-check"></i> 1-Month Free Hosting</li>
-              <li><i class="bx bx-check"></i> Basic Blog Site (Optional &amp; Customizable)</li>
+              <li><i class="bx bx-check"></i> Android &amp; iPhone Applications!</li>
             </ul>
           </div>
 
           <div class="col-lg-4 box" data-aos="zoom-in">
-            <h3>Contractor Setup</h3>
+            <h3>Corporation Package</h3>
             <h4>$55<span>Hourly (Starting)</span></h4>
             <ul>
               <li><i class="bx bx-check"></i> Bid in blocks of time (40/80/120/160 Hours)</li>
-              <li><i class="bx bx-check"></i> 1-Free Domain</li>
-              <li><i class="bx bx-check"></i> 4-Months Free Hosting</li>
-              <li><i class="bx bx-check"></i> Customized Web Application</li>
+              <li><i class="bx bx-check"></i> Secured Cloud Hosting for Production (Additional Monthly Fees)</li>
+              <li><i class="bx bx-check"></i> Free Beta Server Access (Heroku)</li>
+              <li><i class="bx bx-check"></i> Customized Web Application (Ruby on Rails/PHP)</li>
             </ul>
           </div>
 
