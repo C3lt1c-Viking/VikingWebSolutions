@@ -7,7 +7,7 @@
 
   <title>Viking Web Solutions</title>
   <meta name="description" content="Freelance Website Developer creating websites, web-based applications E-Commerce sites, and Mobile Applications!">
-  <meta name="author" content="Dr. Aubrey W. Love II (AKA C3lt1c Viking)">
+  <meta name="author" content="Dr. Odin  Love (AKA C3lt1c Viking)">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="website, web developer, HTML, CSS, JavaScript, Ruby on Rails, E-Commerce, Marketing, Campaigns, Web Hosting">
 
@@ -142,7 +142,7 @@
             <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
               <h3 data-aos="fade-in" data-aos-delay="100">About Viking Web Solutions</h3>
               <p data-aos="fade-in">
-                Aubrey W. Love II operates as a freelance developer creating websites and mobile applications in order to provide digitial services to local companies!
+                Odin Love (AKA C3lt1c Viking) operates as a freelance developer creating websites and mobile applications in order to provide digitial services to local companies!
               </p>
               <div class="row gy-4 mt-3">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
@@ -179,7 +179,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-in">Services</h2>
-          <p data-aos="fade-in">The full range of the services rendered by Aubrey W. Love II is not one to be taken lightly. With experience in virtually all aspects, he is one person you want to have on your I.T. Team!</p>
+          <p data-aos="fade-in">The full range of the services rendered by Odin Love is not one to be taken lightly. With experience in virtually all aspects, he is one person you want to have on your I.T. Team!</p>
         </div>
 
         <div class="row">
@@ -190,8 +190,8 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Website Developer</a></h5>
-                <p class="card-text">From building basic informational websites, all the way to advanced web-based applications, Aubrey has experience in creating any of your website desires &amp; goals for your company! Utilizing multiple programming
-                languages such as PHP, HTML, CSS, JavaScript, Ruby on Rails, Angular, Bootstrap, and Agile Scrum. Let Aubrey design &amp; build your website and take a break from the stress of it all!</p>
+                <p class="card-text">From building basic informational websites, all the way to advanced web-based applications, Odin has experience in creating any of your website desires &amp; goals for your company! Utilizing multiple programming
+                languages such as PHP, HTML, CSS, JavaScript, Ruby on Rails, Angular, Bootstrap, and Agile Scrum. Let Odin design &amp; build your website and take a break from the stress of it all!</p>
 
               </div>
             </div>
@@ -203,7 +203,7 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Mobile Applications</a></h5>
-                <p class="card-text">If you are searching to get your company on the mobile platform, or have the next great idea for a mobile application, Aubrey has you covered! Utilizing well established editors such as Android Studio &amp; X-Code
+                <p class="card-text">If you are searching to get your company on the mobile platform, or have the next great idea for a mobile application, Odin has you covered! Utilizing well established editors such as Android Studio &amp; X-Code
                 he can provide the quality services you are indeed looking for in your next mobile application! Get your company on the Android &amp; iOS market today and stop loosing potential customers!</p>
               </div>
             </div>
@@ -216,8 +216,8 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Web Hosting &amp; Security</a></h5>
-                <p class="card-text">The stress of finding the proper hosting solutions for your project can be a real struggle. Luckily for you, Aubrey has already tested out over 25 different hosting providers. This allows him to provide you with an educated
-                solution based on your project needs and goals. Included with this, as an added option, Aubrey can also setup security protocols to help keep your website &amp; server protected 24/7 from cyber criminals.</p>
+                <p class="card-text">The stress of finding the proper hosting solutions for your project can be a real struggle. Luckily for you, Odin has already tested out over 25 different hosting providers. This allows him to provide you with an educated
+                solution based on your project needs and goals. Included with this, as an added option, Odin can also setup security protocols to help keep your website &amp; server protected 24/7 from cyber criminals.</p>
 
               </div>
             </div>
@@ -230,7 +230,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Digital Marketing &amp; SEO</a></h5>
                 <p class="card-text">Having a website is one aspect, securing &amp; hosting it is another aspect as well. But marketing your website to be able to obtain the maximum number of users and active visitors is where the real website magic happens.
-                Aubrey has studied the social media marketing strategy and has curated a way to ensure that you get the most out of your marketing campaigns and ensures that you will see increase in traffic to your website!</p>
+                Odin has studied the social media marketing strategy and has curated a way to ensure that you get the most out of your marketing campaigns and ensures that you will see increase in traffic to your website!</p>
 
               </div>
             </div>
@@ -256,7 +256,7 @@
           <div class="col-md-7 pt-4" data-aos="fade-left">
             <h3>Personal Values</h3>
             <p class="fst-italic">
-              We understand that it is your business. And Aubrey treats your business as if it is his own. He is capable of meeting
+              We understand that it is your business. And Odin treats your business as if it is his own. He is capable of meeting
               with you 1-On-1 via in-person or video conference in order to fully understand your business goals and needs.
             </p>
             <ul>
@@ -274,7 +274,7 @@
           <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
             <h3>Full Access To Milestones</h3>
             <p class="fst-italic">
-              Aubrey fully understands hiring someone to tackle a project for you is stressful, and with that, he grants everyone
+              Odin fully understands hiring someone to tackle a project for you is stressful, and with that, he grants everyone
               full access to his milestone completions!
             </p>
             <p>
@@ -291,7 +291,7 @@
           </div>
           <div class="col-md-7 pt-5" data-aos="fade-left">
             <h3>Full Stack Developer</h3>
-            <p>Aubrey is fully capable of handling the front-end development as well as the back end development to avoid you hiring multiple individuals for the same task!</p>
+            <p>Odin is fully capable of handling the front-end development as well as the back end development to avoid you hiring multiple individuals for the same task!</p>
             <ul>
               <li><i class="bi bi-check"></i> Front-End Languages: HTML5/CSS3/JavaScript</li>
               <li><i class="bi bi-check"></i> Back-End Frameworks: PHP/Ruby on Rails/React</li>
@@ -310,7 +310,7 @@
               Of course having some credentials to back up the knowledge is always a positive aspect to have.
             </p>
             <p>
-              Here are Aubrey's educational credentials for your viewing.
+              Here are Odin's educational credentials for your viewing.
             </p>
           </div>
         </div>
@@ -323,7 +323,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Doctorate of Computer Science</a></h5>
                 <p class="card-text">
-                  Graduating at the early age of 24, Aubrey has earned his PHD in Computer Science from Ashley University.
+                  Graduating at the early age of 24, Odin has earned his PHD in Computer Science from Ashley University.
                 </p>
               </div>
             </div>
@@ -336,7 +336,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Certified HTML Developer</a></h5>
                 <p class="card-text">
-                  After a few short classes, and one lengthy test later, Aubrey is officially a certified HTML Developer!
+                  After a few short classes, and one lengthy test later, Odin is officially a certified HTML Developer!
                 </p>
               </div>
             </div>
@@ -349,7 +349,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Certified JavaScript Developer</a></h5>
                 <p class="card-text">
-                  After a few short classes, and one lengthy test later, Aubrey is officially a certified JavaScript Developer!
+                  After a few short classes, and one lengthy test later, Odin is officially a certified JavaScript Developer!
                 </p>
               </div>
             </div>
@@ -362,7 +362,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Certified PHP Developer</a></h5>
                 <p class="card-text">
-                  After a few short classes, and one lengthy test later, Aubrey is officially a certified PHP Developer!
+                  After a few short classes, and one lengthy test later, Odin is officially a certified PHP Developer!
                 </p>
               </div>
             </div>
@@ -375,7 +375,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Certified Ruby Developer</a></h5>
                 <p class="card-text">
-                  After a few short classes, and one lengthy test later, Aubrey is officially a certified Ruby Developer!
+                  After a few short classes, and one lengthy test later, Odin is officially a certified Ruby Developer!
                 </p>
               </div>
             </div>
@@ -388,7 +388,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Certified SQL Developer</a></h5>
                 <p class="card-text">
-                  After a few short classes, and one lengthy test later, Aubrey is officially a certified SQL Developer!
+                  After a few short classes, and one lengthy test later, Odin is officially a certified SQL Developer!
                 </p>
               </div>
             </div>
@@ -403,7 +403,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-in">Portfolio</h2>
-          <p data-aos="fade-in">Discover some of the projects that Aubrey Love has designed &amp; built for other companies in the past! These includes websites from basic HTML, to Ruby on Rails Apps.</p>
+          <p data-aos="fade-in">Discover some of the projects that Odin Love has designed &amp; built for other companies in the past! These includes websites from basic HTML, to Ruby on Rails Apps.</p>
         </div>
 
         <div class="row">
@@ -475,7 +475,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/diy_dwi.png" class="img-fluid" alt="" style="height: 300px;">
               <div class="portfolio-links">
-                <a href="http://www.diy-dwi.com" target="_blank" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="http://wwdiy-dwi.com" target="_blank" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>DIY DWI</h4>
@@ -611,10 +611,11 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="info-box" data-aos="fade-up">
-                <a href="https://www.linkedin.com/in/aubrey-love-97ba02227/" target="_blank"><i class='bx bxl-linkedin' ></i> @Aubrey Love</a>&nbsp;&nbsp;
+                <a href="https://wwlinkedin.com/in/Odin-love-97ba02227/" target="_blank"><i class='bx bxl-linkedin' ></i> @Odin Love</a>&nbsp;&nbsp;
                 <a href="https://github.com/C3lt1c-Viking" target="_blank"><i class='bx bxl-github' ></i> @C3lt1c-Viking</a><br/>
                   <a href="https://twitter.com/C3lt1cViking" target="_blank"><i class='bx bxl-twitter'></i> @C3lt1cViking</a>&nbsp;&nbsp;
-                  <a href="https://www.twitch.tv/c3lt1cviking" target="_blank"><i class='bx bxl-twitch' ></i> @c3lt1cviking</a>
+                  <a href="https://wwtwitch.tv/c3lt1cviking" target="_blank"><i class='bx bxl-twitch' ></i> @c3lt1cviking</a>
+                  <a href="https://www.freelancer.com/u/VikingWebSol" target="_blank"><i class='bx bxs-book-content' ></i> @VikingWebSol</a>
                 </div>
               </div>
               <div class="col-md-6">
@@ -657,9 +658,9 @@
 
         <div class="social-links">
           <a href="https://twitter.com/C3lt1cViking" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="https://www.twitch.tv/c3lt1cviking" class="facebook"><i class="bx bxl-twitch"></i></a>
+          <a href="https://wwtwitch.tv/c3lt1cviking" class="facebook"><i class="bx bxl-twitch"></i></a>
           <a href="https://github.com/C3lt1c-Viking" class="instagram"><i class="bx bxl-github"></i></a>
-          <a href="https://www.linkedin.com/in/aubrey-love-97ba02227/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://wwlinkedin.com/in/Odin-love-97ba02227/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
 
       </div>
